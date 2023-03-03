@@ -1,0 +1,8 @@
+
+.form-control:focus{
+
+    box-shadow: 0px 2px 10px rgba(0, 238, 255, 0.753);
+}
+#LoginButton{margin-left: 163.5px;width: 30%; }
+
+
